@@ -3,7 +3,8 @@
 - Obtain an OpenAI API key for free from the OpenAI website.
    [OpenAI website](https://platform.openai.com)
 - Edit the shortcut to replace the API key.
-   [ShortCut](https://www.icloud.com/shortcuts/31b9c070948344409de24559886d0cd3)
+   [ShortCut](https://www.icloud.com/shortcuts/8472d52e48db465188e7f3e26c2c1892)
+   
 - Activate the shortcut by saying "Get Me Jarvice" or click on the shortcut directly.
 - Customize the system message to change ChatGPT's behavior.
 
